@@ -1,10 +1,10 @@
-Added after session:
+Added after session: </br></br>
 
-spacer over and under the button _
-indicative text with valid credentials _
-error handling for edit text _
-disable button while is loading _
-loading indicator _
-toast after correct login _
-trim username & password _
-data & repository packages _
+spacer over and under the button </br>
+indicative text with valid credentials </br>
+error handling for edit text </br>
+disable button while is loading </br>
+loading indicator </br>
+toast after correct login </br>
+trim username & password </br>
+data & repository packages </br>
